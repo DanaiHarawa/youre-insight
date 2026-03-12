@@ -16,7 +16,7 @@ export default function Who() {
             <div className="sec-eyebrow">The People</div>
             <h2 className="sec-title">Who <em>we are</em></h2>
           </div>
-          <p className="sec-desc">The team behind You&apos;re Insight — storytellers and community builders united by a belief in the power of authentic narrative.</p>
+          <p className="sec-desc">The team behind You&apos;re Insight storytellers and community builders united by a belief in the power of authentic narrative.</p>
         </div>
 
         <div className="team-grid">
